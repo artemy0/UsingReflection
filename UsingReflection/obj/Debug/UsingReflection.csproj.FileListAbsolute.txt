@@ -1,0 +1,7 @@
+D:\IBA\UsingReflection\UsingReflection\UsingReflection\bin\Debug\UsingReflection.exe.config
+D:\IBA\UsingReflection\UsingReflection\UsingReflection\bin\Debug\UsingReflection.exe
+D:\IBA\UsingReflection\UsingReflection\UsingReflection\bin\Debug\UsingReflection.pdb
+D:\IBA\UsingReflection\UsingReflection\UsingReflection\obj\Debug\UsingReflection.csprojAssemblyReference.cache
+D:\IBA\UsingReflection\UsingReflection\UsingReflection\obj\Debug\UsingReflection.csproj.CoreCompileInputs.cache
+D:\IBA\UsingReflection\UsingReflection\UsingReflection\obj\Debug\UsingReflection.exe
+D:\IBA\UsingReflection\UsingReflection\UsingReflection\obj\Debug\UsingReflection.pdb
