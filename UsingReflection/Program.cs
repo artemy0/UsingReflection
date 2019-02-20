@@ -15,7 +15,7 @@ namespace UsingReflection
             TypeInfo typeInfo = new TypeInfo(a);
 
             typeInfo.ShowType();
-            typeInfo.ShowMostInformation();
+            typeInfo.ShowShortInformation();
 
 
             string str = "Hello World!";
@@ -23,7 +23,7 @@ namespace UsingReflection
             TypeInfo typeInfo2 = new TypeInfo(str);
 
             typeInfo2.ShowType();
-            typeInfo2.ShowMostInformation();
+            typeInfo2.ShowShortInformation();
 
             Console.ReadKey();
         }

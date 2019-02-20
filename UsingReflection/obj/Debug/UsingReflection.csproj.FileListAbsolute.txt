@@ -5,3 +5,10 @@ D:\IBA\UsingReflection\UsingReflection\UsingReflection\obj\Debug\UsingReflection
 D:\IBA\UsingReflection\UsingReflection\UsingReflection\obj\Debug\UsingReflection.csproj.CoreCompileInputs.cache
 D:\IBA\UsingReflection\UsingReflection\UsingReflection\obj\Debug\UsingReflection.exe
 D:\IBA\UsingReflection\UsingReflection\UsingReflection\obj\Debug\UsingReflection.pdb
+C:\Users\Artsem\OneDrive\Рабочий стол\UsingReflection\UsingReflection\obj\Debug\UsingReflection.csprojAssemblyReference.cache
+C:\Users\Artsem\OneDrive\Рабочий стол\UsingReflection\UsingReflection\obj\Debug\UsingReflection.csproj.CoreCompileInputs.cache
+C:\Users\Artsem\OneDrive\Рабочий стол\UsingReflection\UsingReflection\obj\Debug\UsingReflection.exe
+C:\Users\Artsem\OneDrive\Рабочий стол\UsingReflection\UsingReflection\obj\Debug\UsingReflection.pdb
+C:\Users\Artsem\OneDrive\Рабочий стол\UsingReflection\UsingReflection\bin\Debug\UsingReflection.exe.config
+C:\Users\Artsem\OneDrive\Рабочий стол\UsingReflection\UsingReflection\bin\Debug\UsingReflection.exe
+C:\Users\Artsem\OneDrive\Рабочий стол\UsingReflection\UsingReflection\bin\Debug\UsingReflection.pdb

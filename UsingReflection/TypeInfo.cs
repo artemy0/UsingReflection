@@ -32,7 +32,7 @@ namespace UsingReflection
         }
 
         //print most of the information about our type
-        public void ShowMostInformation()
+        public void ShowShortInformation()
         {
             if(type.GetMethods().Length != 0)
             {
